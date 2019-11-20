@@ -1,5 +1,6 @@
 from goban import Goban
 
+# fmt: off
 
 def test_white_is_taken_when_surrounded_by_black():
     goban = Goban([
