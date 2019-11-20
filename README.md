@@ -2,7 +2,7 @@
 
 # Comment lancer le projet
 
-Pour commencer et lancer les tests : 
+Pour commencer et lancer les tests :
 
 ```
 $ git clone https://github.com/lumapps/test-goban.git
@@ -80,11 +80,11 @@ o#o
 
 ---
 
-[EN] 
+[EN]
 
 # Howto launch the project
 
-To start and launch tests: 
+To start and launch tests:
 
 ```
 $ git clone https://github.com/lumapps/test-goban.git
